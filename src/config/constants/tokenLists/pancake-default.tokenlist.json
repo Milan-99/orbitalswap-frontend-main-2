@@ -1,0 +1,31 @@
+{
+  "name": "OrbitalSwap Default List",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://orbitalswap.com/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped ETHER",
+      "symbol": "WETH",
+      "address": "0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://orbitalswap.com/images/tokens/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+    },
+    {
+      "name": " BUSD",
+      "symbol": "busd",
+      "address": "0x93ac3Ff8E4dfEAb2e45Fedd69988185eBB2242a7",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "https://orbitalswap.com/images/tokens/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+    }
+    
+  ]
+}
