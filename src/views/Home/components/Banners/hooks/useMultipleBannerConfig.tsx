@@ -32,10 +32,7 @@ export const useMultipleBannerConfig = () => {
           shouldRender: true,
           banner: <NewFarmBanner />,
         },
-        {
-          shouldRender: true,
-          banner: <IFOBanner />,
-        },
+        
         {
           shouldRender: isRenderLotteryBanner,
           banner: <LotteryBanner />,
