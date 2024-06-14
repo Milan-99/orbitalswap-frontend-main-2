@@ -30,6 +30,7 @@ const sentryWebpackPluginOptions =
 
 /** @type {import('next').NextConfig} */
 const config = {
+  output: 'export',
   compiler: {
     styledComponents: true,
   },
